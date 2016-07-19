@@ -10,7 +10,7 @@ const criteria = {
 
 const config = {
     $meta: 'This file configures the plot device.',
-    projectName: 'src',
+    projectName: 'norberg_protractor',
     port: {
         web: {
             $filter: 'env',
